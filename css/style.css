@@ -6387,6 +6387,9 @@ button.bg-success:focus {
 .bg-info {
   background-color: #17a2b8 !important;
 }
+.bg-info1 {
+  background-color: #7c2c99 !important;
+}
 
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
@@ -6406,6 +6409,16 @@ button.bg-warning:focus {
 
 .bg-danger {
   background-color: #dc3545 !important;
+}
+
+.bg-danger1 {
+  background-color: #2563eb !important;
+
+}
+
+.bg-danger2 {
+  background-color: #cd4c14 !important;
+
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -9983,3 +9996,41 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+
+/* Technologies & Tools */
+.bg-spring {
+  background-color: #b3a8d8 !important;
+}
+
+.bg-mvc {
+  background-color: #85c685 !important;
+}
+
+.bg-jupy {
+  background-color: #e7b0ba !important;
+}
+
+.bg-db {
+  background-color: #89a6e2 !important;
+}
+
+.bg-tail{
+  background-color: #e3b169eb !important;
+}
+
+.bg-post{
+  background-color: #a3dbe7eb !important;
+}
+
+/* Portfolio button */
+.btn-project1 {
+
+  color: #fff;
+  background-color: #0BCEAF;
+  border-color: #0BCEAF;
+ 
+/* take button in center below image*/
+  
+
+
+} 
