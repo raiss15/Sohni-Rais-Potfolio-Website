@@ -10028,9 +10028,23 @@ h6,
   color: #fff;
   background-color: #0BCEAF;
   border-color: #0BCEAF;
- 
-/* take button in center below image*/
+  border-width: 2px;
   
 
+}
 
-} 
+.project-description {
+  color: #666; /* Change the color as needed */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px; /* Adjust the size as needed */
+  margin-top: 10px; /* Adjust spacing as needed */
+  text-align: justify; /* Aligns the text to the center */
+}
+
+.project-tech {
+  color: #000; /* Change the color as needed */
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px; /* Adjust the size as needed */
+  margin-top: 10px; /* Adjust spacing as needed */
+  text-align: left; /* Aligns the text to the center */
+}
